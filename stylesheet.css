@@ -1,8 +1,19 @@
 body{
-  font-family: "游ゴシック";
+  font-family: "Quantico", "游ゴシック", serif;
   text-align: center;
   background-color: aliceblue;
+  color: olivedrab;
+  margin: 0 auto;
 }
+
+.Top-text{
+  margin: 16px 40px;
+  font-size: 80px;
+}
+h1:hover{
+  background-color: rgb(151, 224, 151);
+}
+
 .description{
   text-align: center;
 }
